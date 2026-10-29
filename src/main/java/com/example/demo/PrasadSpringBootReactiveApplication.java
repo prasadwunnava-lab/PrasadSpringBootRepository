@@ -8,6 +8,7 @@ public class PrasadSpringBootReactiveApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PrasadSpringBootReactiveApplication.class, args);
+		System.out.print("ello");
 	}
 
 }
